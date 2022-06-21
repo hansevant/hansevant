@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hansevant
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning some PHP Framework and GCP
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on hmmmm...
 - 📫 How to reach me just dm me on my instagram
 
