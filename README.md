@@ -38,6 +38,9 @@ IT Enthusiast
 <a href="https://getbootstrap.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="36"/>
 </a>
+<a href="https://tailwindcss.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="36"/>
+</a>
 <a href="https://sass-lang.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="36"/>
 </a>
