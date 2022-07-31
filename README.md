@@ -9,8 +9,8 @@ You can click the Preview link to take a look at your changes.
 IT Enthusiast
 -----------------------------
 
-*   🌍  I'm based in Jakarta, Indonesia
 *   🖥️  See my portfolio at my repository
+*   🌍  I'm based in Jakarta, Indonesia
 *   🚀  I'm Final Year Student at Gunadarma University
 *   🤝  I'm open to collaborating on interesting projects as a developer
 *   🌱  I’m currently learning some Frameworks
