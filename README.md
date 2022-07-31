@@ -18,10 +18,10 @@ IT Enthusiast
 ## Hit Me Up!
 
 <a href="https://www.linkedin.com/in/hansevant/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="72" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="48" />
 </a>
 <a href="https://www.instagram.com/hansevant">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="72" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="48" />
 </a>
 
 ### Technologies I have used
