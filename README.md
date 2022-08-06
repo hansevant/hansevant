@@ -53,6 +53,9 @@ IT Enthusiast
 <a href="https://www.php.net/">
     <img width="36" src="https://www.php.net/favicon.svg?v=2" />
 </a>
+<a href="https://www.codeigniter.com/">
+  <img width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" />
+</a>
 <a href="https://laravel.com/">
     <img width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
 </a>
