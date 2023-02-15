@@ -24,7 +24,7 @@ IT Enthusiast
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="50" />
 </a>
 
-### Technologies I have used
+### Technologies that I have used
 
 <a href="https://www.w3schools.com/html/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36"/>
