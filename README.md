@@ -50,6 +50,9 @@ IT Enthusiast
 <a href="https://reactjs.org/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36"/>
 </a>
+<a href="https://vuejs.org/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="36"/>
+</a>
 <a href="https://www.php.net/">
     <img width="36" src="https://www.php.net/favicon.svg?v=2" />
 </a>
