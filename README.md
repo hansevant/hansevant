@@ -11,7 +11,7 @@ IT Enthusiast
 
 *   🖥️  See my portfolio at my repository
 *   🌍  I'm based in Jakarta, Indonesia
-*   🚀  I'm Final Year Student at Gunadarma University
+*   🚀  I'm Fresh Graduate Student at Gunadarma University
 *   🤝  I'm open to collaborating on interesting projects as a developer
 *   🌱  I’m currently learning some Frameworks
 
