@@ -84,19 +84,22 @@ IT Enthusiast
     <img width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
 </a>
 <a href="https://yarnpkg.com/">
-    <img width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yarn/yarn-original.svg"" />
+    <img width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yarn/yarn-original.svg" />
+</a>
+<a href="https://www.mongodb.com/">
+    <img width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg"/>
 </a>
 <a href="https://www.docker.com/">
-    <img width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
+    <img width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"/>
 </a>
 <a href="https://cloud.google.com/">
-    <img width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
+    <img width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/>
 </a>
 <a href="https://git-scm.com/">
-    <img width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    <img width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 </a>
 <a href="https://www.npmjs.com/">
-    <img width="36" src="https://static.npmjs.com/7a7ffabbd910fc60161bc04f2cee4160.png" />
+    <img width="36" src="https://static.npmjs.com/7a7ffabbd910fc60161bc04f2cee4160.png"/>
 </a>
 <a href="https://getcomposer.org/">
     <img width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" />
