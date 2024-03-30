@@ -39,7 +39,7 @@ IT Enthusiast
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="36"/>
 </a>
 <a href="https://tailwindcss.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="36"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="36"/>
 </a>
 <a href="https://sass-lang.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="36"/>
@@ -60,7 +60,10 @@ IT Enthusiast
   <img width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" />
 </a>
 <a href="https://laravel.com/">
-    <img width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
+    <img width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
+</a>
+<a href="https://lumen.laravel.com/">
+    <img width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lumen/lumen-original.svg" />
 </a>
 <a href="https://www.mysql.com/">
     <img width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
@@ -73,6 +76,18 @@ IT Enthusiast
 </a>
 <a href="https://expressjs.com/">
     <img width="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" />
+</a>
+<a href="https://www.rust-lang.org/">
+    <img width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
+</a>
+<a href="https://fastapi.tiangolo.com/">
+    <img width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
+</a>
+<a href="https://yarnpkg.com/">
+    <img width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yarn/yarn-original.svg"" />
+</a>
+<a href="https://www.docker.com/">
+    <img width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
 </a>
 <a href="https://cloud.google.com/">
     <img width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
