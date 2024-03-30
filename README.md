@@ -35,6 +35,9 @@ IT Enthusiast
 <a href="https://www.w3schools.com/js/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36"/>
 </a>
+<a href="https://www.typescriptlang.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="36"/>
+</a>
 <a href="https://getbootstrap.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="36"/>
 </a>
