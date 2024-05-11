@@ -50,6 +50,9 @@ IT Enthusiast
 <a href="https://www.chartjs.org/">
     <img src="https://www.chartjs.org/img/chartjs-logo.svg" width="36"/>
 </a>
+<a href="https://nextjs.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="36"/>
+</a>
 <a href="https://reactjs.org/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36"/>
 </a>
