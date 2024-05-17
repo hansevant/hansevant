@@ -5,8 +5,17 @@ Hi Hans here! 👋
 hansevant/hansevant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hansevant&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
-IT Enthusiast
+<p align="left">
+ 
+ <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hansevant&layout=compact&langs_count=8&theme=radical"/> 
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hansevant&theme=radical&hide_border=false" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hansevant&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+ 
+</p>
+
+IT Enthusiast 
 -----------------------------
 
 *   🖥️  See my portfolio at my repository
